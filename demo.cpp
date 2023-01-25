@@ -11,7 +11,7 @@ int main(int argc, char **argv) {
 
     //Mousecallback mc;
 
-    //m.registerCallback(&mc);
+    //mymouse.registerCallback(&mc);
 
     mymouse.mstart();
 
